@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+<title>Yash Raj</title>
+</head>
+<body>
+
+<h2>***************************YAsh raj MAhto ************************************************.</h2>
+<p>This is first <strong>paragraph textparagraph textparagraph textparagraph textparagraph <p>textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph </p>textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textparagraph textvvv</strong>.</p>
+<img src="https://images.pexels.com/photos/1525041/pexels-photo-1525041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+	<p>Link of email
+	<a href="mailto:yraj31878@gmail.com">
+	</p>
+</body>
+</html>

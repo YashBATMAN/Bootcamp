@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript</title>
+</head>
+
+
+
+
+
+
+<body onload="">
+    <h2>javascript examples</h2>
+    <input onkeyup="myfunction2()">
+    <button>Click me</button>
+    <!--this is html comment-->
+    <script>
+        // define javascript here
+        function myfunction3(){
+            let name = document.getElementById("userinput").value;
+            console.log("select value",name)
+            alert("Welcome"+name)
+
+            if(name.length<3){
+                alert("ERROR: Name cannot be less than 3 characters")
+                else if("name.length>10")
+                alert("ERROR:Name cannot be more thant 10 characters")
+            else {
+                //only numeric vaues are allowed
+                for(let i=0;i<name.length;i=i+1){}
+            }
+
+    
+
+
+            }
+
+            let header=document.getElementById("heading");
+            header.innerHTML="Welcome"+name;
+        }
+        function myfunction2(){
+            console.log("second function!@@")
+            // function body
+           // alert("javascript function!!!")
+           let name = prompt("Enter your Name")
+           let Confirmation= confirm("Are you sure?")
+           console.log("Name is:",name)
+           console.log(Confirmation)
+        }
+
+        </script>
+
+</body>
+</html>
